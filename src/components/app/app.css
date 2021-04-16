@@ -1,0 +1,28 @@
+.main-container {
+    background-color: #fff;
+    width: 1200px;
+    display: flex;
+    flex-direction: row-reverse;
+    margin: 40px auto;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.main-content {
+    width: calc(100% - 370px);
+    padding: 100px 90px;
+}
+
+.main-content-title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000;
+    margin-bottom: 10px;
+}
+
+.sidebar {
+    background-color: #1E2939;
+    width: 370px;
+    padding: 40px;
+}

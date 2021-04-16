@@ -1,0 +1,26 @@
+.sidebar-title {
+    font-size: 22px;
+    font-weight: 700;
+    font-style: normal;
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+.soft-skills {
+    margin: 50px 0 0 40px;
+}
+
+.soft-skills-list {
+    padding: 0 0 0 17px;
+}
+
+.soft-skills-item {
+    color: #FB6D3A;
+}
+
+.soft-skills-item-text {
+    color: #fff;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+}
