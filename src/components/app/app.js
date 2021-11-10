@@ -17,8 +17,13 @@ const App = () => {
         {href: 'https://github.com/Lotpite/project_portrait', textContent: 'Portrait', stack: ' HTML, CSS, JavaScript, Less ', id: 'qweqw'},
         {href: "https://github.com/Lotpite/loan/tree/master", textContent: 'Loan', stack: ' HTML, CSS, JavaScript, SASS ',  id: 'qweqwe'},
         {href: 'https://github.com/Lotpite/my_library', textContent: 'My library', stack: ' HTML, SCSS, JavaScript ', id: 'qweqweq'},
-        {href: "https://github.com/Lotpite/landing_uber", textContent: 'uber', stack: ' HTML, CSS ',  id: 'qweqweqw'},
-        {href: "https://github.com/Lotpite/landing_wordpress", textContent: 'wordpress', stack: ' HTML, CSS ',  id: 'qweqweqw'}
+        {href: "https://github.com/Lotpite/landing_uber", textContent: 'Uber landing', stack: ' HTML, CSS ',  id: 'qweqweqw'},
+        {href: "https://github.com/Lotpite/landing_wordpress", textContent: 'Wordpress landing', stack: ' HTML, CSS ',  id: 'qweqweqw0'},
+        {href: "https://github.com/Lotpite/00_simple_cards", textContent: 'Cards', stack: ' HTML, CSS, JS ',  id: 'qweqweqw1'},
+        {href: "https://github.com/Lotpite/00_simple_dragDrop", textContent: 'Draggable', stack: ' HTML, CSS, JS ',  id: 'qweqweqw2'},
+        {href: "https://github.com/Lotpite/00_simple_slider", textContent: 'Slider', stack: ' HTML, CSS, JS ',  id: 'qweqweqw3'},
+        {href: "https://github.com/Lotpite/00_simple_interactive-squares", textContent: 'Interactive squares', stack: ' HTML, CSS, JS ',  id: 'qweqweqw4'},
+        {href: "https://github.com/Lotpite/00_simple_aim-game", textContent: 'Aim game', stack: ' HTML, CSS, JS ',  id: 'qweqweqw5'}
     ]
 
     const jobPositions = [
