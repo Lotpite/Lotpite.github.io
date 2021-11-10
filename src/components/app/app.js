@@ -16,7 +16,9 @@ const App = () => {
         {href: "https://github.com/Lotpite/project_window", textContent: 'Window', stack: ' HTML, CSS, SCSS, Less, JavaScript ',  id: 'qweq'},
         {href: 'https://github.com/Lotpite/project_portrait', textContent: 'Portrait', stack: ' HTML, CSS, JavaScript, Less ', id: 'qweqw'},
         {href: "https://github.com/Lotpite/loan/tree/master", textContent: 'Loan', stack: ' HTML, CSS, JavaScript, SASS ',  id: 'qweqwe'},
-        {href: 'https://github.com/Lotpite/my_library', textContent: 'My library', stack: ' HTML, SCSS, JavaScript ', id: 'qweqweq'}
+        {href: 'https://github.com/Lotpite/my_library', textContent: 'My library', stack: ' HTML, SCSS, JavaScript ', id: 'qweqweq'},
+        {href: "https://github.com/Lotpite/landing_uber", textContent: 'uber', stack: ' HTML, CSS ',  id: 'qweqweqw'},
+        {href: "https://github.com/Lotpite/landing_wordpress", textContent: 'wordpress', stack: ' HTML, CSS ',  id: 'qweqweqw'}
     ]
 
     const jobPositions = [
