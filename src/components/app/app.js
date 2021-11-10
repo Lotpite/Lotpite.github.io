@@ -12,7 +12,8 @@ import './app.css'
 
 const App = () => {
     const projectLinks = [
-        {href: 'https://github.com/Lotpite/my-react-resume', textContent: 'My resume(react)', stack: ' HTML, CSS, ReactJS ',  id: 'qwe'},
+        {href: 'https://github.com/Lotpite/my-react-resume', textContent: 'My resume', stack: ' HTML, CSS, ReactJS ',  id: 'qwe'},
+        {href: 'https://github.com/Lotpite/poster-react', textContent: 'Poster(todo-list)', stack: ' HTML, CSS, ReactJS ',  id: 'qwe2'},
         {href: "https://github.com/Lotpite/project_window", textContent: 'Window', stack: ' HTML, CSS, SCSS, Less, JavaScript ',  id: 'qweq'},
         {href: 'https://github.com/Lotpite/project_portrait', textContent: 'Portrait', stack: ' HTML, CSS, JavaScript, Less ', id: 'qweqw'},
         {href: "https://github.com/Lotpite/loan/tree/master", textContent: 'Loan', stack: ' HTML, CSS, JavaScript, SASS ',  id: 'qweqwe'},
