@@ -29,7 +29,7 @@ const App = () => {
     const jobPositions = [
             {position: "Front-End developer ",
              company: "Freelance",
-             period: "December 2020 - up to now ",
+             period: "January 2021 - up to now ",
              country: " Ukraine",
              duties: [
                 {respons: "Improving basic knowledges of HTML,CSS,JS,ReactJS", id: "q1"},
