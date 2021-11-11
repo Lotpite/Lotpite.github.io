@@ -15,7 +15,7 @@ const ProjectList = ({links}) => {
     
     return (
         <div>
-            <h3 className="main-content-title">Prjects(github)</h3>
+            <h3 className="main-content-title">Projects(github)</h3>
             <ol className="projects-list">
                 {items}
             </ol>
