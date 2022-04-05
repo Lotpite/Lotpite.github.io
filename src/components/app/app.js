@@ -12,6 +12,7 @@ import './app.css'
 
 const App = () => {
     const projectLinks = [
+        {href: 'https://ppap-react-movies.netlify.app/', textContent: 'Movie DB', stack: ' ReactJS ',  id: 'qweqqqq'},
         {href: 'https://github.com/Lotpite/my-react-resume', textContent: 'My resume', stack: ' HTML, CSS, ReactJS ',  id: 'qwe'},
         {href: 'https://github.com/Lotpite/poster-react', textContent: 'Poster(todo-list)', stack: ' HTML, CSS, ReactJS ',  id: 'qwe2'},
         {href: "https://github.com/Lotpite/project_window", textContent: 'Window', stack: ' HTML, CSS, SCSS, Less, JavaScript ',  id: 'qweq'},
